@@ -18,3 +18,11 @@ Desennhando formas personalizadas na bottom bar
 
 7 Dicas interessantes para usar no room
 - https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1
+
+### Coisas do Gradle
+
+Artigo muito bom explicando como criar flavors para o projeto e tem um plus que fala sobre como criar flavor para os modulos.
+- https://proandroiddev.com/advanced-android-flavors-part-1-building-white-label-apps-on-android-ade16af23bcf
+
+Pagina do android developers que fala sobre os configuração das variantes do projeto
+- https://developer.android.com/studio/build/build-variants?hl=pt-br
