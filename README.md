@@ -26,3 +26,24 @@ Artigo muito bom explicando como criar flavors para o projeto e tem um plus que 
 
 Pagina do android developers que fala sobre os configuração das variantes do projeto
 - https://developer.android.com/studio/build/build-variants?hl=pt-br
+
+### Testes
+
+Artigo muito bom que da uma breve introdução sobre boas praticas de projeto e testes.
+- https://medium.com/@jeziellago/testes-boas-pr%C3%A1ticas-e-patterns-6bfe0925040
+
+Material introdutorio do google sobre testes no android.
+- https://developer.android.com/training/testing/fundamentals
+
+Material introdutorio sobre teste unitário no android utilizando mokito-kotlin tem um projeto de exemplo que deve ser refatorado antes de aplicar os testes.
+- https://www.raywenderlich.com/195-android-unit-testing-with-mockito
+
+Artigo do Martins Fowler sobre Mock e Stub
+- https://martinfowler.com/articles/mocksArentStubs.html
+
+Ferramenta de testes para gerar relátorios
+- https://github.com/arturdm/jacoco-android-gradle-plugin
+Código de exemplo de uso
+- https://github.com/codecov/example-android
+
+
