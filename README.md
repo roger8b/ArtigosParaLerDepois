@@ -19,6 +19,9 @@ Desennhando formas personalizadas na bottom bar
 7 Dicas interessantes para usar no room
 - https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1
 
+Lib para testar banco de dados no Android.
+- https://github.com/amitshekhariitbhu/Android-Debug-Database
+
 ### Coisas do Gradle
 
 Artigo muito bom explicando como criar flavors para o projeto e tem um plus que fala sobre como criar flavor para os modulos.
