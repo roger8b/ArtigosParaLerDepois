@@ -49,4 +49,9 @@ Ferramenta de testes para gerar relátorios
 Código de exemplo de uso
 - https://github.com/codecov/example-android
 
+## Injeção de dependências.
+
+Artigo que mostra uma maneira simples de implementar o Dagger.
+- https://medium.com/@Zhuinden/that-missing-guide-how-to-use-dagger2-ef116fbea97
+
 
