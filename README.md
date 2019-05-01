@@ -1,7 +1,7 @@
 # ArtigosParaLerDepois
 Local para guardar alguns links relevantes
 
-### Artigos sobre criptografia.
+## Artigos sobre criptografia.
 Exemplo pratico de como criptografar dados no Android.
 - https://www.masinamichele.it/2018/02/13/implementing-rsa-cryptography-in-kotlin/
 
@@ -9,12 +9,12 @@ Artigo com exemplo pratico sobre criptografia
 - https://www.raywenderlich.com/778533-encryption-tutorial-for-android-getting-started
 
 
-### Artigos sobre customização de componenetes
+## Artigos sobre customização de componenetes
 
 Desennhando formas personalizadas na bottom bar
 - https://proandroiddev.com/how-i-drew-custom-shapes-in-bottom-bar-c4539d86afd7
 
-### Artigos sobre SQL / ROOM
+## Artigos sobre SQL / ROOM
 
 7 Dicas interessantes para usar no room
 - https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1
@@ -22,7 +22,7 @@ Desennhando formas personalizadas na bottom bar
 Lib para testar banco de dados no Android.
 - https://github.com/amitshekhariitbhu/Android-Debug-Database
 
-### Coisas do Gradle
+## Coisas do Gradle
 
 Artigo muito bom explicando como criar flavors para o projeto e tem um plus que fala sobre como criar flavor para os modulos.
 - https://proandroiddev.com/advanced-android-flavors-part-1-building-white-label-apps-on-android-ade16af23bcf
@@ -30,7 +30,7 @@ Artigo muito bom explicando como criar flavors para o projeto e tem um plus que 
 Pagina do android developers que fala sobre os configuração das variantes do projeto
 - https://developer.android.com/studio/build/build-variants?hl=pt-br
 
-### Testes
+## Testes
 
 Artigo muito bom que da uma breve introdução sobre boas praticas de projeto e testes.
 - https://medium.com/@jeziellago/testes-boas-pr%C3%A1ticas-e-patterns-6bfe0925040
@@ -54,4 +54,7 @@ Código de exemplo de uso
 Artigo que mostra uma maneira simples de implementar o Dagger.
 - https://medium.com/@Zhuinden/that-missing-guide-how-to-use-dagger2-ef116fbea97
 
+## Custom View 
 
+Artigo bem simple sobre custom view adicionado atributos.
+https://medium.com/@douglas.iacovelli/the-beauty-of-custom-views-and-how-to-do-it-79c7d78e2088
