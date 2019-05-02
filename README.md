@@ -66,5 +66,5 @@ Artigo que explica como fazer um relogio utilizando o canvas. O artigo da uma no
 
 Artigo um pouco antigo mas da uma ideia de como utilizar o canvas para fazer desenhos utilizando as primitivas.
 - http://pontov.com.br/site/index.php/android/359-desenhando-primitivas-com-canvas
-- - Artigo complementar do mesmo autor.
+- Artigo complementar do mesmo autor.
 - http://pontov.com.br/site/index.php/android/341-criando-uma-view-de-desenho-no-android
