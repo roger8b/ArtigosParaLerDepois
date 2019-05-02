@@ -63,3 +63,8 @@ Artigo bem simple sobre custom view adicionado atributos.
 
 Artigo que explica como fazer um relogio utilizando o canvas. O artigo da uma noção de como utilizar as ferramentas de animação e desenho.
 - https://android.jlelse.eu/canvas-the-real-play-ground-android-c0faa4b79943
+
+Artigo um pouco antigo mas da uma ideia de como utilizar o canvas para fazer desenhos utilizando as primitivas.
+- http://pontov.com.br/site/index.php/android/359-desenhando-primitivas-com-canvas
+- - Artigo complementar do mesmo autor.
+- http://pontov.com.br/site/index.php/android/341-criando-uma-view-de-desenho-no-android
