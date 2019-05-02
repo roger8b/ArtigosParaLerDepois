@@ -57,4 +57,9 @@ Artigo que mostra uma maneira simples de implementar o Dagger.
 ## Custom View 
 
 Artigo bem simple sobre custom view adicionado atributos.
-https://medium.com/@douglas.iacovelli/the-beauty-of-custom-views-and-how-to-do-it-79c7d78e2088
+- https://medium.com/@douglas.iacovelli/the-beauty-of-custom-views-and-how-to-do-it-79c7d78e2088
+
+## Canvas
+
+Artigo que explica como fazer um relogio utilizando o canvas. O artigo da uma noção de como utilizar as ferramentas de animação e desenho.
+- https://android.jlelse.eu/canvas-the-real-play-ground-android-c0faa4b79943
