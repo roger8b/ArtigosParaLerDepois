@@ -54,6 +54,9 @@ Código de exemplo de uso
 Artigo que mostra uma maneira simples de implementar o Dagger.
 - https://medium.com/@Zhuinden/that-missing-guide-how-to-use-dagger2-ef116fbea97
 
+Artigo simples que da algumas dicas sobre Dagger.
+- https://medium.com/square-corner-blog/keeping-the-daggers-sharp-%EF%B8%8F-230b3191c3f
+
 ## Custom View 
 
 Artigo bem simple sobre custom view adicionado atributos.
