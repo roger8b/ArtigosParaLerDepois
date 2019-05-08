@@ -71,3 +71,8 @@ Artigo um pouco antigo mas da uma ideia de como utilizar o canvas para fazer des
 - http://pontov.com.br/site/index.php/android/359-desenhando-primitivas-com-canvas
 - Artigo complementar do mesmo autor.
 - http://pontov.com.br/site/index.php/android/341-criando-uma-view-de-desenho-no-android
+
+## Rx
+
+Artigo bem interessante que aborda algumas praticas do uso e aprendizado sobre programação reativa.
+- http://upday.github.io/blog/reactive_frustrations_1/#reasoning-about-the-code
