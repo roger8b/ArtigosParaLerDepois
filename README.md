@@ -76,3 +76,9 @@ Artigo um pouco antigo mas da uma ideia de como utilizar o canvas para fazer des
 
 Artigo bem interessante que aborda algumas praticas do uso e aprendizado sobre programação reativa.
 - http://upday.github.io/blog/reactive_frustrations_1/#reasoning-about-the-code
+
+## Patterns
+
+Artigo bem simples em pt-br explicando padrão de projeto Builder e derivados que seguem a mesma lógica de construção.
+- http://luizricardo.org/2013/08/construindo-objetos-de-forma-inteligente-builder-pattern-e-fluent-interfaces/
+
