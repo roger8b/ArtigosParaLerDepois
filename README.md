@@ -82,3 +82,8 @@ Artigo bem interessante que aborda algumas praticas do uso e aprendizado sobre p
 Artigo bem simples em pt-br explicando padrão de projeto Builder e derivados que seguem a mesma lógica de construção.
 - http://luizricardo.org/2013/08/construindo-objetos-de-forma-inteligente-builder-pattern-e-fluent-interfaces/
 
+## Coisas sobre kotlin
+
+Repositório com muita informação legal sobre kotlin
+- https://github.com/KotlinBy/awesome-kotlin
+
