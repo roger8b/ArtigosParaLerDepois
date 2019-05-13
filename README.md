@@ -87,3 +87,7 @@ Artigo bem simples em pt-br explicando padrão de projeto Builder e derivados qu
 Repositório com muita informação legal sobre kotlin
 - https://github.com/KotlinBy/awesome-kotlin
 
+Lib para construção de UI utilizando JavaFx de uma forma mais simples parecido com o flutter
+- https://tornadofx.io/
+- https://edvin.gitbooks.io/tornadofx-guide/
+
