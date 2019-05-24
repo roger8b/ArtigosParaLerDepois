@@ -96,3 +96,6 @@ Lib para construção de UI utilizando JavaFx de uma forma mais simples parecido
 
 Artigo do google sobre conexão https pinagem de certificado
 - https://developer.android.com/training/articles/security-ssl
+
+Artigo da Oracle sobre SSL
+- https://docs.oracle.com/javase/6/docs/technotes/guides/security/jsse/JSSERefGuide.html#SSLContext
