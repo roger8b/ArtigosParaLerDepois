@@ -91,3 +91,8 @@ Lib para construção de UI utilizando JavaFx de uma forma mais simples parecido
 - https://tornadofx.io/
 - https://edvin.gitbooks.io/tornadofx-guide/
 
+
+## Reqs
+
+Artigo do google sobre conexão https pinagem de certificado
+- https://developer.android.com/training/articles/security-ssl
