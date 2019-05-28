@@ -1,5 +1,5 @@
-# ArtigosParaLerDepois
-Local para guardar alguns links relevantes
+# Artigos Para Ler Depois
+Local para guardar alguns links relevantes...
 
 ## Artigos sobre criptografia.
 Exemplo pratico de como criptografar dados no Android.
@@ -99,3 +99,6 @@ Artigo do google sobre conexão https pinagem de certificado
 
 Artigo da Oracle sobre SSL
 - https://docs.oracle.com/javase/6/docs/technotes/guides/security/jsse/JSSERefGuide.html#SSLContext
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTk3Nzk1NTQwMF19
+-->
