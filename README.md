@@ -49,6 +49,9 @@ Ferramenta de testes para gerar relátorios
 Código de exemplo de uso
 - https://github.com/codecov/example-android
 
+Artigo sobre testes 
+- https://www.toptal.com/java/a-guide-to-everyday-mockito
+
 ## Injeção de dependências.
 
 Artigo que mostra uma maneira simples de implementar o Dagger.
@@ -56,6 +59,10 @@ Artigo que mostra uma maneira simples de implementar o Dagger.
 
 Artigo simples que da algumas dicas sobre Dagger.
 - https://medium.com/square-corner-blog/keeping-the-daggers-sharp-%EF%B8%8F-230b3191c3f
+
+
+Uma ideia legal do uso de generics usando Rx
+- https://medium.com/@patrykpoborca/dagger-2-and-base-classes-generics-and-presenter-injection-7d82053080c
 
 ## Custom View 
 
@@ -82,6 +89,7 @@ Artigo bem interessante que aborda algumas praticas do uso e aprendizado sobre p
 Artigo bem simples em pt-br explicando padrão de projeto Builder e derivados que seguem a mesma lógica de construção.
 - http://luizricardo.org/2013/08/construindo-objetos-de-forma-inteligente-builder-pattern-e-fluent-interfaces/
 
+
 ## Coisas sobre kotlin
 
 Repositório com muita informação legal sobre kotlin
@@ -99,6 +107,14 @@ Artigo do google sobre conexão https pinagem de certificado
 
 Artigo da Oracle sobre SSL
 - https://docs.oracle.com/javase/6/docs/technotes/guides/security/jsse/JSSERefGuide.html#SSLContext
+
+## Teste Automatizado
+
+Bom artigo para dar uma base de uso do Appium
+- https://medium.com/@thialisonbr/appium-automa%C3%A7%C3%A3o-para-apps-mobile-923666e0f936
+
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTk3Nzk1NTQwMF19
 -->
