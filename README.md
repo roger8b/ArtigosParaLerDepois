@@ -60,6 +60,9 @@ Artigo sobre testes
 Guia para teste unitário vários exemplos
 - https://www.toptal.com/java/a-guide-to-everyday-mockito
 
+Artigo sobre mock stub e fake
+- https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da
+
 ## Injeção de dependências.
 
 Artigo que mostra uma maneira simples de implementar o Dagger.
@@ -153,3 +156,8 @@ Treinamentos diversos google
 Observable como criar um Observable em JS
 - https://medium.com/@natelapinski/building-your-own-observable-part-3-the-observer-pattern-and-creational-methods-334eeffb67f0
 - https://github.com/nathan-lapinski/build-your-own-observable
+
+## Componentes do android
+
+Artigo sobre RecyclerView com multiplos layouts em Kotlin
+- https://blog.jakelee.co.uk/creating-a-recyclerview-with-multiple-content-types-and-layouts-in-kotlin/
