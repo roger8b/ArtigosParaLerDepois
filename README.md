@@ -1,6 +1,11 @@
 # Artigos Para Ler Depois
 Local para guardar alguns links relevantes...
 
+## Livros
+
+Varios livros de diferentes tecnologias
+- https://books.goalkicker.com/
+
 ## Artigos sobre criptografia.
 Exemplo pratico de como criptografar dados no Android.
 - https://www.masinamichele.it/2018/02/13/implementing-rsa-cryptography-in-kotlin/
@@ -52,6 +57,9 @@ Código de exemplo de uso
 Artigo sobre testes 
 - https://www.toptal.com/java/a-guide-to-everyday-mockito
 
+Guia para teste unitário vários exemplos
+- https://www.toptal.com/java/a-guide-to-everyday-mockito
+
 ## Injeção de dependências.
 
 Artigo que mostra uma maneira simples de implementar o Dagger.
@@ -99,6 +107,8 @@ Lib para construção de UI utilizando JavaFx de uma forma mais simples parecido
 - https://tornadofx.io/
 - https://edvin.gitbooks.io/tornadofx-guide/
 
+- Lib de programação funcional
+https://arrow-kt.io/
 
 ## Reqs
 
@@ -113,8 +123,33 @@ Artigo da Oracle sobre SSL
 Bom artigo para dar uma base de uso do Appium
 - https://medium.com/@thialisonbr/appium-automa%C3%A7%C3%A3o-para-apps-mobile-923666e0f936
 
+## Exemplos de uso de técnologia
+App da DroidKaigi exemplo de uso de varias tecnologias.
+- https://github.com/DroidKaigi/conference-app-2019
+- https://github.com/DroidKaigi/conference-app-2018
+- https://github.com/DroidKaigi/conference-app-2017
 
+## Arquitetura / Modularização
+Material sobre Arquitetura limpa.
+- https://www.toptal.com/android/benefits-of-clean-architecture-android
+- https://fernandocejas.com/2018/05/07/architecting-android-reloaded/
+- https://pusher.com/tutorials/clean-architecture-introduction
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3Nzk1NTQwMF19
--->
+Serie de artigos sobre modularização
+- https://jeroenmols.com/blog/2019/03/06/modularizationwhy/
+
+## EHT
+
+Ferramenta para quebrar certificado
+- https://github.com/ac-pm/Inspeckage
+
+## Sites de cursos
+
+Treinamentos diversos google
+- https://www.qwiklabs.com/
+
+## Outros
+
+Observable como criar um Observable em JS
+- https://medium.com/@natelapinski/building-your-own-observable-part-3-the-observer-pattern-and-creational-methods-334eeffb67f0
+- https://github.com/nathan-lapinski/build-your-own-observable
