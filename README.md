@@ -161,3 +161,14 @@ Observable como criar um Observable em JS
 
 Artigo sobre RecyclerView com multiplos layouts em Kotlin
 - https://blog.jakelee.co.uk/creating-a-recyclerview-with-multiple-content-types-and-layouts-in-kotlin/
+
+## Code Review
+
+Artigo que da algumas dicas sobre code review
+- https://medium.com/tech-grupozap/revis%C3%A3o-de-c%C3%B3digo-boas-pr%C3%A1ticas-para-garantir-a-qualidade-2077434cd32d
+
+Artigos sobre como escrever um PullRequest
+- https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/
+
+Artigo sobre a piramide do code review
+- http://www.dein.fr/2015-02-18-maslows-pyramid-of-code-review.html
