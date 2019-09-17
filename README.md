@@ -71,6 +71,13 @@ Artigo que mostra uma maneira simples de implementar o Dagger.
 Artigo simples que da algumas dicas sobre Dagger.
 - https://medium.com/square-corner-blog/keeping-the-daggers-sharp-%EF%B8%8F-230b3191c3f
 
+-Teste de coisas Asyncronas
+https://medium.com/pxhouse/unit-testing-with-mutablelivedata-22b3283a7819
+https://proandroiddev.com/fix-kotlin-and-new-activitytestrule-the-rule-must-be-public-f0c5c583a865
+
+-Provendo Schedulers para facilitar os testes de asyncronos
+https://medium.com/@PaulinaSadowska/writing-unit-tests-on-asynchronous-events-with-rxjava-and-rxkotlin-1616a27f69aa
+https://medium.com/mindorks/unit-testing-for-viewmodel-19f4d76b20d4
 
 Uma ideia legal do uso de generics usando Rx
 - https://medium.com/@patrykpoborca/dagger-2-and-base-classes-generics-and-presenter-injection-7d82053080c
@@ -94,6 +101,12 @@ Artigo um pouco antigo mas da uma ideia de como utilizar o canvas para fazer des
 
 Artigo bem interessante que aborda algumas praticas do uso e aprendizado sobre programação reativa.
 - http://upday.github.io/blog/reactive_frustrations_1/#reasoning-about-the-code
+
+RxBind para salvar a vida de vez em quando
+http://www.overrideandroid.info/2017/03/reactive-programming-with-rxbinding.html
+https://www.vokal.io/blog/reactive-forms-with-rxandroid
+http://szagurskii.com/blog/how-to-observe-edittext-changes-in-background/
+
 
 ## Patterns
 
